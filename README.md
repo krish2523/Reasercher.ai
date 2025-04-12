@@ -1,4 +1,4 @@
-# 📚 AI Research Assistant
+# 📚 Researcher.AI
 
 ## 🚀 Overview
 AI Research Assistant is a powerful and intelligent research tool that leverages OpenAI GPT models and CrewAI agents to perform deep, structured research on any topic. This assistant is designed to provide well-structured reports, integrating real-time news and academic sources as per user preferences.
