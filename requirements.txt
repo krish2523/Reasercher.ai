@@ -1,0 +1,17 @@
+streamlit
+crewai-tools
+python-dotenv
+langchain-openai
+langchain-groq
+openai-whisper
+langchain
+langchain-community
+pytesseract
+pdf2image
+langdetect
+langchain-text-splitters
+langchain-core
+faiss-cpu
+groq
+pdfplumber
+openai
